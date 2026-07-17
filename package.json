@@ -1,0 +1,12 @@
+{
+  "name": "wa-panel",
+  "version": "1.0.0",
+  "description": "Panel multilinea para recibir y responder mensajes de WhatsApp (Cloud API) fuera de WhatsApp",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/kv": "^1.0.1"
+  }
+}
